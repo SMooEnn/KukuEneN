@@ -1,0 +1,51 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3361142 */
+  src: url('iconfont.woff2?t=1651064805409') format('woff2'),
+       url('iconfont.woff?t=1651064805409') format('woff'),
+       url('iconfont.ttf?t=1651064805409') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jiarugouwuche:before {
+  content: "\e61a";
+}
+
+.icon-aixin2:before {
+  content: "\e8ab";
+}
+
+.icon-aixin3:before {
+  content: "\e8c3";
+}
+
+.icon-gouwuche2:before {
+  content: "\e600";
+}
+
+.icon-aixin:before {
+  content: "\e663";
+}
+
+.icon-001caozuo_fanhuidingbu:before {
+  content: "\e622";
+}
+
+.icon-sousuo:before {
+  content: "\eafe";
+}
+
+.icon-24gf-telephone:before {
+  content: "\e96c";
+}
+
+.icon-aixin1:before {
+  content: "\e85c";
+}
+

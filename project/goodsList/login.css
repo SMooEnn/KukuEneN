@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.bk{
+width: 1519.2px;
+height: 854.91px;
+margin: 0 auto;
+}
+.bk>video{
+width: 100%;
+height: 100%;
+display: block;
+}
+.bk>p{
+    position: absolute;
+    top: 30px;
+    left: 50%;
+
+
+}
+.bk>p>a{
+    font-size: 45px;
+    text-decoration: none;
+    color: white;
+    margin-left:calc(-371px/2) ;
+    font-weight: 500;
+}
+body,html{
+    position: relative;
+}
+#motaitai{
+    color: white;
+position: absolute;
+top: 30%;
+left: 40%;
+z-index: 1000;
+}
+.tap{
+    text-align: center;
+    width: 100px;
+    height: 26px;
+    line-height: 26px;
+    position: absolute;
+    color: red;
+    font-weight: 500;
+    display: none;
+    top: 42%;
+    left: 46%;
+    z-index: 10000;
+    display: none;
+}

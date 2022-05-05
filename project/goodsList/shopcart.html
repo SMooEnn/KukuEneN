@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="./iconfont/iconfont.css">
+    <link rel="stylesheet" href="./shopcart.css">
+  
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="modal fade" tabindex="-1" role="dialog" id="delModal">
+        <div class="modal-dialog" role="document">
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+              <h4 class="modal-title">删除</h4>
+            </div>
+            <div class="modal-body">
+              <p>真的要删除此商品吗？</p>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-default" data-dismiss="modal">取消</button>
+              <button type="button" class="btn btn-primary" id="delSure">确定</button>
+            </div>
+          </div><!-- /.modal-content -->
+        </div><!-- /.modal-dialog -->
+      </div><!-- /.modal -->
+    <nav class="contianer">
+        <div class="container">
+            <div class="top">
+                <p><span class="iconfont">&#xeafe;</span> <span>搜索</span></p>
+                <h2>LOUIS &nbsp; VUITTON</h2>
+                <ul>
+                    <li><a href="">我的愿望录</a></li>
+                    <li><a href="">我的路易威登</a></li>
+                    <li><a href="" class="iconfont">&#xe600;</a>
+                </ul>
+            </div>
+            <ul class="bottom">
+                <li><a href="">新品系列</a></li>
+                <li><a href="">女士</a></li>
+                <li><a href="">男士</a></li>
+                <li><a href="">生活艺术</a></li>
+                <li><a href="">路易威登的世界</a></li>
+            </ul>
+        </div>
+    </nav>
+    <section class="cart container">
+        <div class="left">
+            <p>我的购物袋<a href="./goodsList.html">继续选购</a></p>
+            <ul class="cartList">
+                
+                
+            </ul>
+            <p><button type="button">结算</button></p>
+        </div>
+        <div class="right">
+            <div>
+                <p>小计<span class="xSum"></span></p>
+                <p>运费<span>￥0</span></p>
+                <p>总金额<span class="sum"></span></p>
+                <button>结算</button>
+            </div>
+            <ul>
+                <li>支付方式</li>
+            </ul>
+        </div>
+    </section>
+<script src="./axios.js"></script>
+<script src="./shopcart.js"></script>
+</body>
+
+</html>

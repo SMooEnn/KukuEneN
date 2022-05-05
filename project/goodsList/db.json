@@ -1,0 +1,180 @@
+{
+  "goodLists": [
+    {
+      "img": "./images/list1.jpeg",
+      "name": "ONTHEGO 大号手袋",
+      "price": 26600,
+      "color": "Pink",
+      "materials": "NOT APPLICABLE",
+      "number": "M00587",
+      "amount": 1,
+      "id": 0
+    },
+    {
+      "img": "./images/list2.jpeg",
+      "name": "荷叶袖 T 恤",
+      "price": 8050,
+      "color": "Rose",
+      "materials": "100% 棉",
+      "number": "1A9YEX",
+      "amount": 1,
+      "id": 1
+    },
+    {
+      "img": "./images/list3.jpeg",
+      "name": "LIGHT CAT EYE 太阳眼镜",
+      "price": 3950,
+      "color": "Pink",
+      "materials": "醋酯纤维",
+      "number": "1A84R1",
+      "amount": 1,
+      "id": 2
+    },
+    {
+      "img": "./images/list4.jpeg",
+      "name": "印花 T 恤",
+      "price": 6950,
+      "color": "Black",
+      "materials": "100% 棉",
+      "number": "1A9XQP",
+      "amount": 1,
+      "id": 3
+    },
+    {
+      "img": "./images/list5.jpeg",
+      "name": "牛仔迷你短裤",
+      "price": 11700,
+      "color": "Black",
+      "materials": "100% 棉",
+      "number": "1A9WPP",
+      "amount": 1,
+      "id": 4
+    }
+  ],
+  "userInfo": [
+    {
+      "id": 1,
+      "username": "sme",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "username": "wly",
+      "password": "123"
+    }
+  ],
+  "cartList": [
+    {
+      "img": "./images/list3.jpeg",
+      "name": "LIGHT CAT EYE 太阳眼镜",
+      "price": 3950,
+      "color": "Pink",
+      "materials": "醋酯纤维",
+      "amount": 1,
+      "number": "1A84R1",
+      "id": 2
+    },
+    {
+      "img": "./images/list1.jpeg",
+      "name": "ONTHEGO 大号手袋",
+      "price": 26600,
+      "color": "Pink",
+      "materials": "NOT APPLICABLE",
+      "amount": 2,
+      "number": "M00587",
+      "id": 3
+    },
+    {
+      "img": "./images/list4.jpeg",
+      "name": "印花 T 恤",
+      "price": 6950,
+      "color": "Black",
+      "materials": "100% 棉",
+      "amount": 1,
+      "number": "1A9XQP",
+      "id": 4
+    },
+    {
+      "img": "./images/list5.jpeg",
+      "name": "牛仔迷你短裤",
+      "price": 11700,
+      "color": "Black",
+      "materials": "100% 棉",
+      "amount": 2,
+      "number": "1A9WPP",
+      "id": 5
+    },
+    {
+      "img": "./images/list2.jpeg",
+      "name": "荷叶袖 T 恤",
+      "price": 8050,
+      "color": "Rose",
+      "materials": "100% 棉",
+      "amount": 1,
+      "number": "1A9YEX",
+      "id": 7
+    },
+    {
+      "img": "./images/list3.jpeg",
+      "name": "LIGHT CAT EYE 太阳眼镜",
+      "price": 3950,
+      "color": "Pink",
+      "materials": "醋酯纤维",
+      "amount": 1,
+      "number": "1A84R1",
+      "id": 8
+    },
+    {
+      "img": "./images/list5.jpeg",
+      "name": "牛仔迷你短裤",
+      "price": 11700,
+      "color": "Black",
+      "materials": "100% 棉",
+      "amount": 1,
+      "number": "1A9WPP",
+      "id": 9
+    },
+    {
+      "img": "./images/list4.jpeg",
+      "name": "印花 T 恤",
+      "price": 6950,
+      "color": "Black",
+      "materials": "100% 棉",
+      "amount": 1,
+      "number": "1A9XQP",
+      "id": 10
+    }
+  ],
+  "detailsList": [
+    {
+      "img": "./images/list3.jpeg",
+      "name": "LIGHT CAT EYE 太阳眼镜",
+      "price": 3950,
+      "color": "Pink",
+      "materials": "醋酯纤维",
+      "number": "1A84R1",
+      "amount": 1,
+      "id": 1
+    },
+    {
+      "img": "./images/list2.jpeg",
+      "name": "荷叶袖 T 恤",
+      "price": 8050,
+      "color": "Rose",
+      "materials": "100% 棉",
+      "number": "1A9YEX",
+      "amount": 1,
+      "id": 2
+    },
+    {
+      "img": "./images/list3.jpeg",
+      "name": "LIGHT CAT EYE 太阳眼镜",
+      "price": 3950,
+      "color": "Pink",
+      "materials": "醋酯纤维",
+      "number": "1A84R1",
+      "amount": 1,
+      "id": 3
+    }
+  ]
+}

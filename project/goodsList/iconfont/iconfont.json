@@ -1,0 +1,72 @@
+{
+  "id": "3361142",
+  "name": "lv",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "10031187",
+      "name": "加入购物车",
+      "font_class": "jiarugouwuche",
+      "unicode": "e61a",
+      "unicode_decimal": 58906
+    },
+    {
+      "icon_id": "11372639",
+      "name": "爱心",
+      "font_class": "aixin2",
+      "unicode": "e8ab",
+      "unicode_decimal": 59563
+    },
+    {
+      "icon_id": "11372756",
+      "name": "爱心",
+      "font_class": "aixin3",
+      "unicode": "e8c3",
+      "unicode_decimal": 59587
+    },
+    {
+      "icon_id": "49355",
+      "name": "天猫购物车 ",
+      "font_class": "gouwuche2",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "918722",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e663",
+      "unicode_decimal": 58979
+    },
+    {
+      "icon_id": "1308045",
+      "name": "001操作_返回顶部",
+      "font_class": "001caozuo_fanhuidingbu",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "5387553",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "eafe",
+      "unicode_decimal": 60158
+    },
+    {
+      "icon_id": "7568886",
+      "name": "24gf-telephone",
+      "font_class": "24gf-telephone",
+      "unicode": "e96c",
+      "unicode_decimal": 59756
+    },
+    {
+      "icon_id": "8288959",
+      "name": "爱心",
+      "font_class": "aixin1",
+      "unicode": "e85c",
+      "unicode_decimal": 59484
+    }
+  ]
+}
